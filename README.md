@@ -1,8 +1,6 @@
-Excellent — this project is very well-documented! Below is a **professional README file** for your GitHub repository, followed by **repo name recommendations** (with a top pick).
 
----
 
-## 🧠 README for *Multi-Font Character Recognition: A Comparative Analysis of MLP, RBF, and SVM Networks*
+## 🧠  *Multi-Font Character Recognition: A Comparative Analysis of MLP, RBF, and SVM Networks*
 
 ### 📘 Project Overview
 
